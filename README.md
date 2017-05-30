@@ -1,2 +1,2 @@
 # python-tools
-python绘制折线图和直方图
+python开发过程中自己编写的一些小工具。
